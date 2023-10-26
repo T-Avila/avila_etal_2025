@@ -10,5 +10,5 @@ for initial review.
 
 - [Data](Data/): isotopic measurement used in the analyses
 - [Figure](Figures/): figures generated in the numerical models
-- [Output](Output/): output files (csv, asvii, npz) from numerical models
-- [Scripts](Scripts/): jupyter notebook to run numerical models
+- [Scripts](Box Models/): jupyter notebooks to run numerical models
+- [Inflection Ages](Inflection Ages/): jupyter notebooks to calculate Sr and O inflection ages
