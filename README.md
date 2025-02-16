@@ -1,10 +1,7 @@
 # Avila et al manuscript repository
 
 This repository contains codes, data, output, and figures associated with
-the Avila et al manuscript, submitted for publication to Geological Society of London Special Edition
-
-The associated manuscript has been submitted to GSL
-for initial review.
+the Avila et al 2025 manuscript, accepted for publication with the Geological Society of London Special Edition
 
 *Repository structure:*
 
