@@ -1,7 +1,7 @@
 # Avila et al manuscript repository
 
 This repository contains codes, data, output, and figures associated with
-the Avila et al 2025 manuscript titled "Silicate weathering, land plants and cooling in the late Silurian and early Devonian", published with the Geological Society of London Special Edition in May 2025.
+the manuscript titled "Silicate weathering, land plants and cooling in the late Silurian and early Devonian", published with the Geological Society of London Special Edition in May 2025.
 
 DOI: https://doi.org/10.1144/jgs2023-148
 
